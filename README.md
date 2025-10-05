@@ -16,10 +16,5 @@ It also offers tools for industrial clients to track competitors, analyze websit
 - 📱 **Social Media Insights:** Analyze engagement and online presence.  
 - ⚙️ **Automation & IoT Tools:** Find solutions to optimize business processes.  
 
----
 
-## 🧠 Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** PHP, MySQL  
-- **Optional:** Node.js for automation tools  
 
